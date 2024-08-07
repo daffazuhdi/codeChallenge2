@@ -1,0 +1,59 @@
+{
+    "models": [
+      {
+        "id": 1,
+        "model_name": "KONA Electric",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/all-new-kona-electric/new/kn-opticwhitematte_668x362.png",
+        "price": 600000000
+      },
+      {
+        "id": 2,
+        "model_name": "STARGAZER",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/stargazer/default/my23-pc-672.png",
+        "price": 300000000
+      },
+      {
+        "id": 3,
+        "model_name": "STARGAZER X",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/stargazer-x/default/stargazer-x-672.png",
+        "price": 350000000
+      },
+      {
+        "id": 4,
+        "model_name": "PALISADE",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/palisade-fl/default/palisade-fl-new-672.png",
+        "price": 900000000
+      },
+      {
+        "id": 5,
+        "model_name": "IONIQ 5",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/ioniq5/default/ioniq-668-bluebox.png",
+        "price": 850000000
+      },
+      {
+        "id": 6,
+        "model_name": "IONIQ 6",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/ioniq-6/default/IONIQ-6-672.png",
+        "price": 1250000000
+      },
+      {
+        "id": 7,
+        "model_name": "SANTA FE",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/santa-fe/default/new-santa-fe672.png",
+        "price": 700000000
+      },
+      {
+        "id": 8,
+        "model_name": "CRETA",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/creta/default/creta-672.png",
+        "price": 300000000
+      },
+      {
+        "id": 9,
+        "model_name": "STARIA",
+        "img_url": "https://www.hyundai.com/content/dam/hyundai/id/en/data/vehicle-thumbnail/product/staria/default/Staria-672.png",
+        "price": 800000000
+      }
+    ]
+  }
+  
