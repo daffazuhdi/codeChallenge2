@@ -99,8 +99,8 @@ export default function Home() {
           <img className="object-cover h-[380px] max-sm:h-[200px]" src="https://www.hyundai.com/content/dam/hyundai/ww/en/images/brand/240313-philosophy-our-vision/hyundai-our-vision-philosophy-ioniq5-pc.jpg" alt="" />
           <div className="flex-col">
             <p className="text-3xl font-bold my-[30px] max-sm:text-2xl ">Moving forward together</p>
-            <p className="sm:text-left max-sm:px-8 ">Taking a big technological step forward is only meaningful when it is anchored in a deep sense of humanity.
-            Whether it's our commitment to hydrogen-powered solutions and next-generation electric vehicles or cutting-edge robotics and air mobility, we are advancing human progress through innovation. Being a pioneer also means embracing convictions that challenge the status quo, which is why we have always stayed true to our beliefs and done things our way. As our guiding principle, progress for humanity unites us in who we are, where we come from, and where we are going.</p>
+            <p className="sm:text-left max-sm:px-8 ">{`Taking a big technological step forward is only meaningful when it is anchored in a deep sense of humanity.
+            Whether it's our commitment to hydrogen-powered solutions and next-generation electric vehicles or cutting-edge robotics and air mobility, we are advancing human progress through innovation. Being a pioneer also means embracing convictions that challenge the status quo, which is why we have always stayed true to our beliefs and done things our way. As our guiding principle, progress for humanity unites us in who we are, where we come from, and where we are going.`}</p>
           </div>
         </div>
 
