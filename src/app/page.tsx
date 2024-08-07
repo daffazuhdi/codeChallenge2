@@ -78,7 +78,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="models my-[100px] px-5">
+        <div className="models my-[100px] px-5 ">
           <p className="text-4xl font-semibold mb-[50px] max-sm:text-3xl">
             Model
           </p>

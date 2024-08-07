@@ -12,7 +12,7 @@ export default function Navbar({}: Props) {
             <div className="logo ">
                 <Link href="/" className='max-[640px]:hidden'><img src="https://www.hyundai.com/etc/designs/hyundai/template_en/en/images/common/ico-logo.png" alt="" /></Link>
                 {/* <img className="max-[640px]:hidden" src="https://www.hyundai.com/etc/designs/hyundai/template_en/en/images/common/ico-logo.png" alt="" /> */}
-                <Link href={"/"} className='min-[640px]:hidden h-[28px] w-auto'><img src="https://www.hyundai.com/etc/designs/hyundai/template_en/en/images/common/ico-logo-m.png" alt="" /></Link>
+                <Link href={"/"} className='min-[640px]:hidden '><img className='!max-h-[28px] w-auto' src="https://www.hyundai.com/etc/designs/hyundai/template_en/en/images/common/ico-logo-m.png" alt="" /></Link>
                 {/* <img className="min-[640px]:hidden h-[28px] w-auto" src="https://www.hyundai.com/etc/designs/hyundai/template_en/en/images/common/ico-logo-m.png" alt="" /> */}
             </div>
             <div className="boxMid flex gap-7 items-center max-[640px]:hidden">

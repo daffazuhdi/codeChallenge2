@@ -11,10 +11,10 @@ export default function page({}: Props) {
                 Hyundai Indonesia
             </div>
         </div>
-        <p className='py-[100px] text-xl md:text-3xl font-semibold'>Tentang Hyundai Motors Indonesia</p>
+        <p className='py-[75px] sm:py-[100px] text-xl md:text-3xl font-semibold'>Tentang Hyundai Motors Indonesia</p>
         <img className='w-[70%] h-auto' src="https://www.hyundai.com/content/dam/hyundai/id/en/images/hyundai_story/hyundai-story-about-hyundai-indonesia-main-pc.jpg" alt="" />
 
-        <div className="content max-w-screen-md py-[100px] px-8 sm:px-0">
+        <div className="content max-w-screen-md py-[75px] sm:py-[100px] px-8 sm:px-0">
             <p className='text-2xl sm:text-3xl font-semibold'>Who Are We</p>
             <br />
             <p>Didirikan pada tahun 2020, Hyundai Motors Indonesia adalah anak perusahaan penjualan dan distributor resmi Hyundai Motor Company untuk mobil penumpang Hyundai di Indonesia. Visi perusahaan, Progress for Humanity
