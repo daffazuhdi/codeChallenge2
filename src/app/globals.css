@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 body {
-  font-family: "Hyundai Sans Head Office Regular";
+  /* font-family: "Hyundai Sans Head Office Regular"; */
+  font-family:sans-serif
 }
 /* 
 @layer base {
